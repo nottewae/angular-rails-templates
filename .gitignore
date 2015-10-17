@@ -5,3 +5,11 @@ test/dummy/public/assets/*
 *.lock
 .DS_Store
 
+
+.idea/.name
+
+.idea/.rakeTasks
+
+*.iml
+
+*.xml
